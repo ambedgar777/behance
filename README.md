@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A money management app using Flutter!
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1670933545](https://user-images.githubusercontent.com/49684285/207315479-422add03-bf65-4e47-a93d-75635275e734.png)
+~Home_Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1670933549](https://user-images.githubusercontent.com/49684285/207315517-51271214-9292-4a17-9547-f287d2837c9d.png)
+~Final_Screen
